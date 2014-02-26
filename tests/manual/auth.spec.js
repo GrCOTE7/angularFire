@@ -4,8 +4,8 @@ describe("AngularFireAuth Test Suite", function() {
 
   //constants
   var existingUser = {
-    email: "user@domain.com",
-    password: "aaaaaaaa"
+    email: "ugrcote7@gmail.com",
+    password: "Kaelc777"
   }
   var newUserInf = {
     email: "a" + Math.round(Math.random()*10000000000) + "@email.com",
